@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m currently working on Healthcare AI Assistants, RAG Pipelines, and Full-Stack SaaS Applications<br><br> I’m looking to collaborate on Open Source AI Projects, LLM Applications, and Modern Web Platforms<br><br> I’m looking for help with Advanced MLOps, Distributed AI Systems, and LLM Fine-Tuning<br><br> I’m currently learning Agentic AI, Multi-Agent Systems, and AI Infrastructure<br><br> Ask me about React, Next.js, Node.js, Python, Machine Learning, RAG, LangChain, and UI/UX Design<br><br> Fun fact: I can design the UI, build the backend, train the AI model, and deploy the entire product myself.
 
 
@@ -18,11 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=PapputheDev&icon=8&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Awwyush) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
